@@ -7,7 +7,7 @@ This project is a simple meta tag parser that extracts metadata from HTML docume
 To install the Meta Tag Parser, simply clone this repository:
 
 ```
-git clone https://github.com/your-username/Meta-Tag-Parser.git
+git clone https://github.com/rafathossain/Meta-Tag-Parser.git
 ```
 
 ## Contributing
